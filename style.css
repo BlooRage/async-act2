@@ -1,0 +1,19 @@
+.container {
+    border: 5px solid gray;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#cell {
+    border: 5px solid lightgray;
+    border-collapse: collapse;
+}
+
+.link {
+    text-align: center;
+}
+
+.carousel-size {
+    width: 40%;
+    margin:auto;
+}
