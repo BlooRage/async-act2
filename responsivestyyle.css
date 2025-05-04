@@ -1,0 +1,43 @@
+
+.link {
+    text-align: center;
+}
+
+body{
+    background: rgb(0, 174, 255);
+    color: white;
+}
+@media (min-width: 576px) {
+    body{
+        background: orange;
+        color: black;
+    }
+}
+
+@media (min-width: 768px) {
+    body{
+        background: yellow;
+        color: black;
+    }
+}
+
+@media (min-width: 992px) {
+    body{
+        background: green;
+        color: white;
+    }
+}
+
+@media (min-width: 1200px) {
+    body{
+        background: blue;
+        color: white;
+    }
+}
+
+@media (min-width: 1400px) {
+    body{
+        background: indigo;
+        color: white;
+    }
+}
